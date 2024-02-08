@@ -26,6 +26,9 @@ class fish(Animal):
     noise = "SLURP"
     
 # Add another animal below.  Come up with something unique
+class Tiger(Animal):
+    noise = "ROAR"
+
 # Feel free to add functions or whatever you want.  If you don't feel
 # confident in your python, you just copy and paste the bird and change
 # the names or even just write a comment.  Just add something to the file.
